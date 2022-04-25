@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AvaliacaoTecnica2Jogo/1.0.0": {
+        "runtime": {
+          "AvaliacaoTecnica2Jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvaliacaoTecnica2Jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\bin\Debug\net5.0\AvaliacaoTecnica3Farmacia.exe
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\bin\Debug\net5.0\AvaliacaoTecnica3Farmacia.deps.json
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\bin\Debug\net5.0\AvaliacaoTecnica3Farmacia.runtimeconfig.json
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\bin\Debug\net5.0\AvaliacaoTecnica3Farmacia.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\bin\Debug\net5.0\AvaliacaoTecnica3Farmacia.dll
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\bin\Debug\net5.0\AvaliacaoTecnica3Farmacia.pdb
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.AssemblyInfo.cs
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.dll
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\refint\AvaliacaoTecnica3Farmacia.dll
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.pdb
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\AvaliacaoTecnica3Farmacia.genruntimeconfig.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica3Farmacia\obj\Debug\net5.0\ref\AvaliacaoTecnica3Farmacia.dll

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\bin\Debug\net5.0\AvaliacaoTecnica2Jogo.exe
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\bin\Debug\net5.0\AvaliacaoTecnica2Jogo.deps.json
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\bin\Debug\net5.0\AvaliacaoTecnica2Jogo.runtimeconfig.json
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\bin\Debug\net5.0\AvaliacaoTecnica2Jogo.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\bin\Debug\net5.0\AvaliacaoTecnica2Jogo.dll
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\bin\Debug\net5.0\AvaliacaoTecnica2Jogo.pdb
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.AssemblyInfo.cs
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.dll
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\refint\AvaliacaoTecnica2Jogo.dll
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.pdb
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\AvaliacaoTecnica2Jogo.genruntimeconfig.cache
+C:\temp\ws-vs2022\ProvaTecnica\AvaliacaoTecnica2Jogo\obj\Debug\net5.0\ref\AvaliacaoTecnica2Jogo.dll

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\bin\Debug\net5.0\Exercicio1VendasEComissao.exe
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\bin\Debug\net5.0\Exercicio1VendasEComissao.deps.json
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\bin\Debug\net5.0\Exercicio1VendasEComissao.runtimeconfig.json
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\bin\Debug\net5.0\Exercicio1VendasEComissao.runtimeconfig.dev.json
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\bin\Debug\net5.0\Exercicio1VendasEComissao.dll
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\bin\Debug\net5.0\Exercicio1VendasEComissao.pdb
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.AssemblyInfo.cs
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.dll
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\refint\Exercicio1VendasEComissao.dll
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.pdb
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\Exercicio1VendasEComissao.genruntimeconfig.cache
+C:\temp\ws-vs2022\ProvaTecnica\Exercicio1VendasEComissao\obj\Debug\net5.0\ref\Exercicio1VendasEComissao.dll
